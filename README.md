@@ -15,7 +15,7 @@ This project has been built and trained in Google Collab. Hence, the main file o
 
 ## Scripts
 
-### Script [$unet.py$](scripts/unet.py)
+### Script [unet.py](scripts/unet.py)
 This script implements a modification of the model described in the paper "U-Net: Convolutional
 Networks for Biomedical Image Segmentation".
 
@@ -27,11 +27,11 @@ Two relevant modifications have been applied to the original U-NET model:
 
 -The second one is that batch norm is applied after each convolution.
 
-## Script [$data.py$](scripts/data.py)
+## Script [data.py](scripts/data.py)
 This is the simplest script of the whole project. In this script the dataset will be prepared to be used
 to train our model.
 
-## Script [$train.py$](scripts/train.py)
+## Script [train.py](scripts/train.py)
 
 This is the main script of the project. As it’s name indicates it’s used to train the model and will call
 every other script. This script has many parameters that can be modified by the user to find the best
@@ -46,7 +46,7 @@ should be remarked are:
 • Learning rate  
 • Load project (boolean)
 
-## Script [$extra.py$](scripts/extra.py)
+## Script [extra.py](scripts/extra.py)
 
 This scripts implements some utility functions such as:
 
