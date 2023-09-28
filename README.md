@@ -1,6 +1,6 @@
 # U-NET model for Carvana dataset image segmentation
 
-## <span style="color:red">NOTE</span>.
+## NOTE
 
 I do not recommend anyone taking this project as a base or reference for them. This was **my first contact with DNN and CNN**, so this work contains many things that I think **should be improved**. This project was developed during my Erasmus+ stay at CTU Prague.
 
